@@ -1,0 +1,6 @@
+You can download the dataset from this website : http://mrl.cs.vsb.cz/eyedataset
+Download the dataset and first run the "Data-preparation.ipynb" file to separate the datas into open eyes and closed eyes
+Then create a folder named Prepared data. Inside that folder, create two folders named test and train.
+Copy the separated datas (open eyes and closed eyes folders) and paste it inside both test and train folders.
+Then run the "training.py" file
+Finally run "drowsiness detection.py" file to see the awesome output.
